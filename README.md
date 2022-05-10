@@ -12,3 +12,7 @@ that in order to play, they need to enter something for the field. Once the play
 this screen is removed from the view, and the game’s screen becomes visible for the user to play. In this view, I added at the 
 top another label next to the score to also reflect the player’s name as it was entered in the main screen. Additionally, the
 game does get created based on the board size selection that the user makes at the start of the game as well.
+
+
+https://user-images.githubusercontent.com/56801901/167678265-9c262707-ebd3-4276-90ac-17567995ce92.mov
+
